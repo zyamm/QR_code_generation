@@ -1,7 +1,7 @@
 # QR_code_generation
 This is the command line application to generate QR code.
 
-Enter the URL and a QR code image with any file name will be generated.
+Enter the URL, a QR code image with any file name will be generated in the executed directory.
 
 When running on the command line, type:　
 $ python make_qr.py (command line argument)
