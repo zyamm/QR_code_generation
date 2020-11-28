@@ -7,7 +7,7 @@ Output uses SVG format.
 Using a third party package 'qrcode'.
 
 
-Assumed operating environment
+Assumed operating environment:
   Works with Python 3.6 and above
   OS does not matter
   Modern browser that can display SVG
