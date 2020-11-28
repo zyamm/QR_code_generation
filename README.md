@@ -8,9 +8,9 @@ Using a third party package 'qrcode'.
 
 
 Assumed operating environment
->Works with Python 3.6 and above
->OS does not matter
->Modern browser that can display SVG
+  Works with Python 3.6 and above
+  OS does not matter
+  Modern browser that can display SVG
 
 
 When running on the command line, type:　
