@@ -9,6 +9,9 @@ class MakeQR:
 
     def run(self):
         url = input('Enter URL : ')
+        if not url.startswith('http'):  # Input value check
+            print("The string entered does not start with 'http'")
+            return  # run method ends here, make method is not executed
         self.url = url
         self.make()
 
