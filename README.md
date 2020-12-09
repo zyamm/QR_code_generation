@@ -1,4 +1,5 @@
 # QR_code_generation
+
 This is the command line application to generate QR code.
 
 
@@ -19,3 +20,4 @@ $ python make_qr.py (command line argument)
 Enter the name of the output image file in ().
 Example:
 $ python make_qr.py python.svg
+
